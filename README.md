@@ -8,6 +8,16 @@ This project focuses on **NLP cleaning and sentiment analysis** of D-Mart review
 This project focuses on **NLP preprocessing and sentiment analysis** of hotel reviews. Using the NLTK library, stopwords were removed, and frequently occurring words were identified to enhance text refinement. **Exploratory Data Analysis (EDA)** was carried out to uncover the most common positive and negative words, offering a deeper understanding of guest sentiment. To further enhance visualization, the **WordCloud** library was utilized to display the most repeated words across the reviews. Sentiment analysis was then conducted to classify reviews into **positive, negative, and neutral categories**, which were combined for a holistic evaluation. This analysis aids in understanding guest feedback and deriving valuable insights from the reviews.
 # Time series analysis on Answered calls
 **Time series analysis on Answered calls** on Answered calls explores time series forecasting using statistical and machine learning techniques. The notebook includes a comprehensive workflow starting from data loading and visualization to stationarity checks, decomposition, and model implementation. It covers Autoregressive (AR), Moving Average (MA), ARIMA, and SARIMA models, along with performance evaluation using metrics like RMSE. The project demonstrates practical steps to analyze and forecast temporal data, making it a valuable resource for anyone interested in predictive analytics and time series modeling.
+# Book Recommendation system
+Book Recommendation System built using K-Nearest Neighbors (KNN) algorithm. It involves data preprocessing techniques such as Standard Scaling and Min-Max Scaling, along with feature engineering to improve the recommendation quality. A custom function has been created which, when given a book title as input, returns the top 5 most similar book recommendations based on reader preferences and book features. The system aims to provide quick and relevant suggestions to enhance the user’s reading experience.
+
+
+
+
+
+
+
+
 
 
 
