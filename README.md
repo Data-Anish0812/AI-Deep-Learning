@@ -10,6 +10,16 @@ This project focuses on **NLP preprocessing and sentiment analysis** of hotel re
 **Time series analysis on Answered calls** on Answered calls explores time series forecasting using statistical and machine learning techniques. The notebook includes a comprehensive workflow starting from data loading and visualization to stationarity checks, decomposition, and model implementation. It covers Autoregressive (AR), Moving Average (MA), ARIMA, and SARIMA models, along with performance evaluation using metrics like RMSE. The project demonstrates practical steps to analyze and forecast temporal data, making it a valuable resource for anyone interested in predictive analytics and time series modeling.
 # Book Recommendation system
 **Book Recommendation System** built using K-Nearest Neighbors (KNN) algorithm. It involves data preprocessing techniques such as Standard Scaling and Min-Max Scaling, along with feature engineering to improve the recommendation quality. A custom function has been created which, when given a book title as input, returns the top 5 most similar book recommendations based on reader preferences and book features. The system aims to provide quick and relevant suggestions to enhance the user’s reading experience.
+# Movie Recommendation System
+In **Book Recommendation System**, Performed data preprocessing on movie metadata by cleaning the dataset, handling missing values, and selecting key columns such as genres, overview, keywords, cast, and crew to support recommendation logic. Built a content-based recommendation system that calculates movie similarity using cosine similarity on features extracted with CountVectorizer. This method recommends movies based on similarities in genres, descriptions, and other textual attributes, effectively aligning suggestions with user preferences.
+
+
+
+
+
+
+
+
 
 
 
